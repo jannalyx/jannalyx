@@ -1,8 +1,12 @@
-## Information Systems student passionate about technology and innovation. 👋
+style="text-align: center;">## Estudante de Sistemas de Informação apaixonada por tecnologia e inovação. 👋
+
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
 - 🔭 I'm currently interning as a Product Designer at Compass UOL.
 - 🌱 I'm studying web development and product design.
 - 📫 How to reach me: janainapcj44@gmail.com
+
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +20,7 @@
   <img align="center" alt="Jana-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-  ##
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
  
 <div> 
   <a href="https://instagram.com/jjanasousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
