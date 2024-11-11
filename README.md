@@ -1,4 +1,4 @@
-## Estudante de Sistemas de Informação apaixonada por tecnologia e inovação. 👋
+## Information Systems student passionate about technology and innovation. 👋
 
 - 🔭 I'm currently interning as a Product Designer at Compass UOL.
 - 🌱 I'm studying web development and product design.
