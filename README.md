@@ -6,7 +6,7 @@
 
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>My Skills:</h3>
   <img align="center" alt="Jana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
