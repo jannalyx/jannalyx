@@ -1,8 +1,5 @@
 ## Estudante de Sistemas de Informação apaixonada por tecnologia e inovação. 👋
 
-
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
-
 - 🔭 I'm currently interning as a Product Designer at Compass UOL.
 - 🌱 I'm studying web development and product design.
 - 📫 How to reach me: janainapcj44@gmail.com
