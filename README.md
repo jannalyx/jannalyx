@@ -1,4 +1,4 @@
-style="text-align: center;">## Estudante de Sistemas de Informação apaixonada por tecnologia e inovação. 👋
+<h2 style="text-align: center;">Estudante de Sistemas de Informação apaixonada por tecnologia e inovação. 👋</h2>
 
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
 
