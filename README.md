@@ -1,7 +1,6 @@
 ## Information Systems student passionate about technology and innovation. 👋
 
-- 🔭 I'm currently interning as a Product Designer at Compass UOL.
-- 🌱 I'm studying web development and product design.
+- 🌱 I'm studying web development and UX/UI Design.
 - 📫 How to reach me: janainapcj44@gmail.com
 
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
